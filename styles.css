@@ -25,7 +25,6 @@ h2 {
     border-radius: 16px;
     border:2px solid green;
     margin-bottom: 5px;
-    width: 60%;
 }
 
 .instructions {
@@ -37,7 +36,6 @@ h2 {
     background-color: yellowgreen;
     border:4px solid yellowgreen;
     font-weight: bold;
-    width: 60%;
     /*font-weight: bold;
     background-color: red;
     border:8px solid red;*/
@@ -106,7 +104,6 @@ button:hover {
     border:2px solid yellowgreen;
     text-align: center;
     border-radius: 16px;
-    width: 60%;
     /*font-size: large;
     font-weight: bold;*/
 }
