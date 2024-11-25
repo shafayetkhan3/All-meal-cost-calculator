@@ -42,14 +42,14 @@ h2 {
 }
 
 .table-container {
-    /*overflow-x: auto;*/
+    *overflow-x: auto;
     margin-bottom: 2px;
 }
 
 table {
     border-collapse: collapse;
     margin-bottom: 5px;
-    width: 100%;
+    width: 95%;
 }
 
 /* thead {
