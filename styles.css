@@ -43,6 +43,7 @@ h2 {
 
 .table-container {
     /*overflow-x: auto;*/
+    width: 100%;
     margin-bottom: 2px;
 }
 
