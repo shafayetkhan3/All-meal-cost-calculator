@@ -5,16 +5,23 @@ body {
     background-color: whitesmoke;
     font-weight: 100;
     text-align: center;
+    overflow-x: auto;
+    width: 95%;
 }
 
 .container {
-    width: 95%;
-    max-width: 2200px;
+    width: 90%;
+    max-width: 85%;
     margin: 0px auto;
     background: white;
     padding: 1px;
     border-radius: 16px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+    /*display: flex;*/
+    justify-content: center; /*Centers the table horizontally*/
+    align-items: center;
+    overflow-x: auto;
 }
 
 h2 {
@@ -26,7 +33,7 @@ h2 {
     border-radius: 16px;
     border:2px solid green;
     margin-bottom: 5px;
-    width: 100%;
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -46,7 +53,7 @@ h2 {
 }
 
 .table-container {
-    /*overflow-x: auto;*/
+    overflow-x: auto;
     margin-bottom: 2px;
     text-align: center;
 }
@@ -54,8 +61,11 @@ h2 {
 table {
     /*border-collapse: collapse;*/
     margin-bottom: 5px;
-    width: 60%;
+    max-width: 80%;
     margin: 0 auto;
+    table-layout: fixed;
+    word-wrap: break-word;
+    overflow-x: auto;
 }
 
 /* thead {
