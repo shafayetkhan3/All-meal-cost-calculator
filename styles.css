@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: whitesmoke;
     font-weight: 100;
+    text-align: center;
 }
 
 /*.container {
@@ -42,14 +43,16 @@ h2 {
 }
 
 .table-container {
-    /*overflow-x: auto;*/
+    overflow-x: auto;
     margin-bottom: 2px;
+    text-align: center;
 }
 
 table {
     border-collapse: collapse;
     margin-bottom: 5px;
-    width: 98%;
+    width: 75%;
+    margin: 0 auto;
 }
 
 /* thead {
