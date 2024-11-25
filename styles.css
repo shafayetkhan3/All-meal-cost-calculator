@@ -7,15 +7,15 @@ body {
     text-align: center;
 }
 
-/*.container {
-    width: 98%;
+.container {
+    width: 95%;
     max-width: 2200px;
     margin: 0px auto;
     background: white;
     padding: 1px;
     border-radius: 16px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}*/
+}
 
 h2 {
     text-align: center;
