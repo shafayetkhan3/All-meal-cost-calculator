@@ -6,12 +6,9 @@ body {
     font-weight: 100;
     text-align: center;
     overflow-x: auto;
-    width: 95%;
 }
 
 .container {
-    width: 90%;
-    max-width: 85%;
     margin: 0px auto;
     background: white;
     padding: 1px;
@@ -33,7 +30,7 @@ h2 {
     border-radius: 16px;
     border:2px solid green;
     margin-bottom: 5px;
-    width: 50%;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -61,7 +58,7 @@ h2 {
 table {
     /*border-collapse: collapse;*/
     margin-bottom: 5px;
-    max-width: 80%;
+    /*max-width: 80%;*/
     margin: 0 auto;
     table-layout: fixed;
     word-wrap: break-word;
