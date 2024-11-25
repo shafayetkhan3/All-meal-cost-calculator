@@ -42,7 +42,7 @@ h2 {
 }
 
 .table-container {
-    overflow-x: auto;
+    /*overflow-x: auto;*/
     margin-bottom: 2px;
 }
 
