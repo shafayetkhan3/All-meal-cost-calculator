@@ -116,7 +116,9 @@ button:hover {
     font-weight: bold;
     border:2px solid yellowgreen;
     text-align: center;
+    font-size: small;
     border-radius: 16px;
+    
     /*font-size: large;
     font-weight: bold;*/
 }
